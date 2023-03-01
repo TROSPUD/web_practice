@@ -6,12 +6,12 @@ Here are some tiny web practices while learning front-end
 
 use this little application to decide who do the dishes tonight
 
-![Untitled](web%20Display%208aac03ccd25b4a818fd7e806121557b8/Untitled.png)
+![Untitled](asset/1.png)
 
-![Untitled](web%20Display%208aac03ccd25b4a818fd7e806121557b8/Untitled%201.png)
+![Untitled](asset/2.png)
 
 ### Drum Kit
 
 click the drums or your keyboard to monitor the sounds of drums
 
-![Untitled](web%20Display%208aac03ccd25b4a818fd7e806121557b8/Untitled%202.png)
+![Untitled](asset/3.png)
